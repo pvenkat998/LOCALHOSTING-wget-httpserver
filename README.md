@@ -36,3 +36,8 @@ wget -r -np -nH --cut-dirs=3 -R index.html http://hostname/aaa/bbb/ccc/ddd/ -P t
  
 Example
 wget -r -np -nH --cut-dirs=3 -R index.html http://hostname/aaa/bbb/ccc/ddd/ -P C:\wgetdownloads\
+
+
+CREDITS : HTTPSERVER
+https://bmwieczorek.wordpress.com/2008/10/01/wget-recursively-download-all-files-from-certain-directory-listed-by-apache/
+stackoverflow for -P
