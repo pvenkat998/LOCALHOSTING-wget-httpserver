@@ -5,13 +5,13 @@ PREREQUISITES :
 install python 3
 install wuget (2 options visual or source ) recommended visual
 
-https://sites.google.com/site/visualwget/a-download-manager-gui-based-on-wget-for-windows
+VISUAL WGET https://sites.google.com/site/visualwget/a-download-manager-gui-based-on-wget-for-windows
 
-http://gnuwin32.sourceforge.net/packages/wget.htm
+RAW WGET http://gnuwin32.sourceforge.net/packages/wget.htm
 
 
         just installing wget is not enough, so you have to make sure it can be called from cmd
-http://noahcoad.com/post/614/using-wget-on-windows
+SETTING UP WGET http://noahcoad.com/post/614/using-wget-on-windows
 
 
         OPTION 1 : run cmd from working dir (use cd to go to the place wget is extracted)
